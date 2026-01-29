@@ -33,19 +33,23 @@
 
 **High Priority Articles:**
 
-1. **"斩杀线预警系统：10个你正在坠落的信号"** (Early Warning: 10 Signs You're Approaching the Cutoff)
+1. **"斩杀线预警系统：10个你正在坠落的信号"** (Early Warning: 10 Signs You're Approaching the Cutoff) ✅ COMPLETED
    - **Keywords**: financial crisis warning signs, emergency fund depletion, F-1 student budget red flags, poverty spiral prevention
    - **Content**: Actionable early warning indicators before crisis becomes catastrophic
    - **Target**: Prevention-focused, for those still stable but at risk
    - **Folder**: `docs/emergency-finance/prevention/`
    - **Unique Angle**: Specific to F-1 students (visa status, enrollment, limited income sources)
+   - **Status**: Complete (503 lines, commit f5f30fd)
+   - **File**: `docs/emergency-finance/prevention/early-warning-signs.md`
 
-2. **"失去住房的连锁反应"** (The Cascade: What Happens When You Lose Housing)
+2. **"失去住房的连锁反应"** (The Cascade: What Happens When You Lose Housing) ✅ COMPLETED
    - **Keywords**: eviction consequences, housing loss impact, homelessness cascade, address loss problems
    - **Content**: How housing loss triggers job loss, bank account closure, mail access, ID renewal issues
    - **Target**: Illustrate why housing is THE priority (not negotiable)
    - **Folder**: `docs/housing/crisis/`
    - **Unique Angle**: For F-1 students, losing address = SEVIS reporting problem = visa risk
+   - **Status**: Complete (773 lines, commit 6791f43)
+   - **File**: `docs/housing/crisis/losing-housing-cascade.md`
 
 3. **"贫困陷阱：那些专门针对穷人的隐形税"** (The Poverty Tax: Hidden Costs of Being Poor)
    - **Keywords**: poverty penalty, poor tax, overdraft fees, check cashing fees, cant afford bulk buying
