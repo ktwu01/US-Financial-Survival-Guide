@@ -1210,8 +1210,8 @@ Best regards,
 ---
 
 **需要帮助？**
-- [查看模板信件](../../templates/)
-- [阅读真实案例](../case-studies/)
+- [查看模板信件](/templates/)
+- [阅读真实案例](/docs/case-studies/)
 - [返回首页](/)
 
 ---

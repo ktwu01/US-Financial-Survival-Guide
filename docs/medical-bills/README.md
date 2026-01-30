@@ -49,7 +49,7 @@
 3. 核对保险覆盖情况
 4. 用Google搜索不认识的医疗代码（CPT codes）
 
-📥 **下载工具**：[医疗账单检查清单](../templates/medical-bill-checklist.md)
+📥 **下载工具**：[医疗账单检查清单](/templates/medical-bill-checklist)
 
 ---
 
@@ -100,8 +100,8 @@ I would like to know:
 - 批准后：账单减免50-100%
 
 📥 **模板下载**：
-- [慈善医疗减免申请信模板](../templates/charity-care-application-letter.md)
-- [收入证明说明信（学生版）](../templates/student-income-proof-letter.md)
+- [慈善医疗减免申请信模板](/templates/charity-care-application-letter)
+- [收入证明说明信（学生版）](/templates/student-income-proof-letter)
 
 ---
 
@@ -130,7 +130,7 @@ If I pay the full amount today, what discount can you offer?
 2. **要求详细账单**（Itemized bill）
 3. **引用患者权利法案**（Patient Bill of Rights）
 
-📥 **模板下载**：[医疗账单争议信模板](../templates/medical-bill-dispute-letter.md)
+📥 **模板下载**：[医疗账单争议信模板](/templates/medical-bill-dispute-letter)
 
 ---
 
@@ -203,9 +203,9 @@ If I pay the full amount today, what discount can you offer?
 
 ## 相关资源
 
-- [医疗账单检查清单](../templates/medical-bill-checklist.md)
-- [慈善医疗减免申请模板](../templates/charity-care-application-letter.md)
-- [医疗账单争议信模板](../templates/medical-bill-dispute-letter.md)
+- [医疗账单检查清单](/templates/medical-bill-checklist)
+- [慈善医疗减免申请模板](/templates/charity-care-application-letter)
+- [医疗账单争议信模板](/templates/medical-bill-dispute-letter)
 - [常见问题FAQ](../faq/medical-bills-faq.md)
 
 ---
