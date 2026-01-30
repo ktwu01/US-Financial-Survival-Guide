@@ -86,12 +86,14 @@
    - **Target**: Legal awareness
    - **Folder**: `docs/rights-protection/homeless-laws/`
 
-7. **"财务危机中的心理健康"** (Mental Health in Financial Crisis)
+7. **"财务危机中的心理健康"** (Mental Health in Financial Crisis) ✅ COMPLETED
    - **Keywords**: financial stress mental health, crisis psychology, 988 hotline, shame poverty, student counseling
    - **Content**: Recognizing crisis psychology, getting help, managing shame/isolation
    - **Target**: Psychological survival
    - **Folder**: `docs/personal-safety/mental-health/`
    - **Unique Angle**: Cultural shame in Chinese community about financial failure
+   - **Status**: Complete (1,049 lines, commit 420e9ad)
+   - **File**: `docs/personal-safety/mental-health/financial-crisis-mental-health.md`
 
 8. **"紧急庇护所使用指南"** (Emergency Shelter Navigation Guide)
    - **Keywords**: homeless shelters, emergency housing, temporary shelter, shelter safety, F-1 students homeless
@@ -101,9 +103,22 @@
    - **Unique Angle**: F-1 students often ineligible for many shelters
 
 ### Implementation Priority:
-1. Start with #1, #2, #5 (prevention focus, aligns with core mission)
-2. Then #3, #4 (systemic understanding)
-3. Finally #6, #7, #8 (deeper crisis content)
+1. Start with #1, #2, #5 (prevention focus, aligns with core mission) ✅ COMPLETE
+2. Then #3, #4 (systemic understanding) ✅ COMPLETE
+3. Finally #6, #7, #8 (deeper crisis content) - #7 ✅ COMPLETE, #6 & #8 SKIPPED
+
+### Implementation Status:
+**Completed (6 articles, 5,544 lines)**:
+- Article #1: Early Warning Signs (503 lines)
+- Article #2: Housing Loss Cascade (773 lines)
+- Article #3: Poverty Tax (1,313 lines)
+- Article #4: Social Safety Net Reality (968 lines)
+- Article #5: Housing First Principle (938 lines)
+- Article #7: Mental Health (1,049 lines)
+
+**Skipped (2 articles)**:
+- Article #6: Laws That Criminalize Poverty - Skipped (focus on prevention, not policy critique)
+- Article #8: Emergency Shelter Navigation - Skipped (post-crisis reactive, not prevention-focused)
 
 **Essay Source**: "Survive America" essay about homelessness prevention vs. disaster prepping
 **Key Insight**: Homelessness is the real disaster to prep for in America, not zombies or nuclear war
